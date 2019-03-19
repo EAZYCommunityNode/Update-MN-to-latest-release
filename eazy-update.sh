@@ -4,7 +4,7 @@ CONFIG_FILE='ezy.conf'
 CONFIGFOLDER='/root/.ezy'
 COIN_DAEMON='/usr/local/bin/ezyd'
 COIN_CLI='/usr/local/bin/ezy-cli'
-COIN_REPO='https://github.com/EAZYCommunityNode/eazynode/releases/download/v2.2.1/ezy-v2.2.1-linux.tar.gz'
+COIN_REPO='https://github.com/EAZYCommunityNode/eazynode/releases/download/v2.3.0/ezy-v2.3.0-linux.tar.gz'
 COIN_NAME='ezy'
 COIN_PORT=52320
 
